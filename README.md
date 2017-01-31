@@ -1,3 +1,3 @@
 # Workshop 2
 
-ABCDE FU
+This is a really nice appropriate comment.
