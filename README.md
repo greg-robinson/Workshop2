@@ -1,4 +1,4 @@
-# Workshop-2
+# Workshop 2: Git
 
 This is a really nice appropriate comment.
 
